@@ -1,0 +1,52 @@
+[
+   {
+      "alumno":"Diego Delgado",
+      "nota":9.01,
+      "ranking":2
+   },
+   {
+      "alumno":"Carolina Castaño",
+      "nota":10.00,
+      "ranking":1
+   },
+   {
+      "alumno":"Cristina Umaña",
+      "nota":9.00,
+      "ranking":4
+   },
+   {
+      "alumno":"Carlos Quintero",
+      "nota":9.01,
+      "ranking":3
+   },
+   {
+      "alumno":"David Ortiz",
+      "nota":8.50,
+      "ranking":6
+   },
+   {
+      "alumno":"Alberto Orozco",
+      "nota":8.7,
+      "ranking":5
+   },
+   {
+      "alumno":"Leidy Soto",
+      "nota":6.00,
+      "ranking": 7
+   },
+   {
+      "alumno":"Camilo Leon",
+      "nota":5.50,
+      "ranking": 9
+   },
+   {
+      "alumno":"Pedro Pablo",
+      "nota":4.09,
+      "ranking":10
+   },
+   {
+      "alumno":"Juan Minia",
+      "nota":4,
+      "ranking":15
+   }
+]
